@@ -29,7 +29,7 @@
 .pub-cache/
 .pub/
 pubspec_overrides.yaml
-build/
+# build/
 
 # Android related
 **/android/**/gradle-wrapper.jar
